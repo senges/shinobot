@@ -47,7 +47,26 @@ Lov. <3
 * Gestion plus pércise des combats
 * Automatisation de l'action a effectuer en fonction du lieu, et gestion des erreurs (boucle infinie pour l'instant, hu..)
 * Augmenter stats Tai/Nin/Gen
-* Amélioration de détection des pages
+* Amélioration de détection des pages  
+
+## Utilisation
+
+* Depuis un ordinateur
+Vous pouvez lancer le script depuis un ordinateur classique.  
+Il suffit d'installer un environnement de développement type W/LAMP et d'executer le code en local
+  
+* Depuis un serveur (ou RaspBerry)  
+Plus intéressant, vous pouvez héberger le bot sur un serveur d'hébergement.  
+Il vous suffit ensuite simplement de programmer un Cron Job tous les X-Heures.  
+  
+Programmer une tâche cron se fait trais aisément depuis le CPannel.  
+Une simple commande suffit :  
+  
+```bash
+php /path/shinobot/function.php
+```
+
+Et voilà ! Votre bot est fonctionnel.
 
 ## Sources
 
