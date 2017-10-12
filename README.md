@@ -2,8 +2,8 @@
 
 ## News
 
-Pour l'instant le fichier principal n'est pas dispo.
-J'attends d'avoir un retour objectif de la communauté avant de publier.
+Pour l'instant le fichier principal n'est pas dispo.  
+J'attends d'avoir un retour objectif de la communauté avant de publier.  
 
 ## Overview
 
