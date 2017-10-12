@@ -52,10 +52,12 @@ Lov. <3
 ## Utilisation
 
 * Depuis un ordinateur
+
 Vous pouvez lancer le script depuis un ordinateur classique.  
 Il suffit d'installer un environnement de développement type W/LAMP et d'executer le code en local
   
-* Depuis un serveur (ou RaspBerry)  
+* Depuis un serveur (ou RaspBerry)
+
 Plus intéressant, vous pouvez héberger le bot sur un serveur d'hébergement.  
 Il vous suffit ensuite simplement de programmer un Cron Job tous les X-Heures.  
   
@@ -70,7 +72,8 @@ Et voilà ! Votre bot est fonctionnel.
 
 ## Sources
 
-* Random User Agent  
+* Random User Agent
+
 Random user agent creator   
 Initial release By Luka Pušić (pusic93@gmail.com) -> Not Working With Shinobot  
 Refactored by Mike White (m@mwhite.info)  
@@ -78,6 +81,7 @@ Refactored by Mike White (m@mwhite.info)
 Link : https://github.com/mwhite/random-uagent
 
 * HTML DOM Handler
+
 simple_html_dom V1.5
 Released by S.C. Chen, John Schlick, Rus Carroll
 
