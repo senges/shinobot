@@ -1,5 +1,10 @@
 # Shinobot V1.0
 
+## News
+
+Pour l'instant le fichier principal n'est pas dispo.
+J'attends d'avoir un retour objectif de la communauté avant de publier.
+
 ## Overview
 
 Petit bot développé en PHP qui peut jouer à votre place à shinobi.fr
