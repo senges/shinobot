@@ -2,7 +2,7 @@
 
 ## Overview
 
-Petit bot développé en PHP qui peut jouer à votre place à [shinobi.fr](shinobi.fr)
+Petit bot développé en PHP qui peut jouer à votre place à [shinobi.fr](shinobi.fr)  
 Projet à but purement éducatif.
 
 Ancien joueur et passionné d'informatique, je me suis lancé dans la réalisation
