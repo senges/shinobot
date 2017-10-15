@@ -1,13 +1,8 @@
 # Shinobot V1.0
 
-## News
-
-Pour l'instant le fichier principal n'est pas dispo.  
-J'attends d'avoir un retour objectif de la communauté avant de publier.  
-
 ## Overview
 
-Petit bot développé en PHP qui peut jouer à votre place à shinobi.fr
+Petit bot développé en PHP qui peut jouer à votre place à [shinobi.fr](shinobi.fr)
 Projet à but purement éducatif.
 
 Ancien joueur et passionné d'informatique, je me suis lancé dans la réalisation
