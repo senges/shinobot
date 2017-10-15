@@ -38,6 +38,7 @@ Lov. <3
 
 ## Pour la suite ?
 
+* Gestion de la vie (fait une pause le temps de régénérer ? Potions ?)
 * Stocker correctement les mots de passe
 * Gestion plus pércise des combats
 * Automatisation de l'action a effectuer en fonction du lieu, et gestion des erreurs (boucle infinie pour l'instant, hu..)
