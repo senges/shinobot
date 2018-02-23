@@ -2,7 +2,7 @@
 
 /*
 
-@AUTHOR: Charle SENGES
+@AUTHOR: Charles SENGES
 @RELEASE: 12/10/2017
 @VERSION: 1.0
 
