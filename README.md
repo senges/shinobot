@@ -5,8 +5,8 @@
 Petit bot développé en PHP qui peut jouer à votre place à [shinobi.fr](shinobi.fr)  
 Projet à but purement éducatif.
 
-Ancien joueur et passionné d'informatique, je me suis lancé dans la réalisation
-de ce bot par pur fun. Il n'est en aucun cas destiné à nuire de quelque façon que ce
+Ancien joueur, je me suis lancé dans la réalisation de ce bot par pur fun. 
+Il n'est en aucun cas destiné à nuire de quelque façon que ce
 soit à la communauté ou aux administrateurs du jeu.
 
 Dans la mesure ou l'échange de ressources est impossible entre les joueurs, et que
@@ -54,7 +54,7 @@ Il suffit d'installer un environnement de développement type W/LAMP et d'execut
   
 * Depuis un serveur (ou RaspBerry)
 
-Plus intéressant, vous pouvez héberger le bot sur un serveur d'hébergement.  
+Plus intéressant, vous pouvez héberger le bot sur un serveur.  
 Il vous suffit ensuite simplement de programmer un Cron Job tous les X-Heures.  
   
 Programmer une tâche cron se fait trais aisément depuis le CPannel.  
@@ -62,6 +62,12 @@ Une simple commande suffit :
   
 ```bash
 php /path/shinobot/function.php
+```
+
+ou directement en ssh :
+
+```
+crontab -e
 ```
 
 Et voilà ! Votre bot est fonctionnel.
@@ -88,5 +94,5 @@ Link : http://sourceforge.net/projects/simplehtmldom/
 Si vous avez la moindre remarque, réclamation ou que vous souhaitez contribuer au projet,
 vous pouvez me contacter des façons suivantes :
 
-- charles.senges@protonmail.com
+- charles.senges.etu@univ-lille.fr
 - C'est tout.
