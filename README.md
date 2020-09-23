@@ -1,5 +1,7 @@
 # Shinobot V1.0
 
+> REFONTE TOTALE EN PYTHON
+
 ## Overview
 
 Petit bot développé en PHP qui peut jouer à votre place à [shinobi.fr](shinobi.fr)  
