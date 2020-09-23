@@ -83,6 +83,14 @@ class Shinobot:
     def fight(self):
         raise ValueError('Not yet implemented')
 
+    # -- Read at minato's library
+    def read(self):
+        raise ValueError('Not yet implemented')
+
+    # -- Hunt and fight monsters
+    def hunt(self):
+        raise ValueError('Not yet implemented')
+
     # -- Train ninjutsu
     def trainNin(self):
         raise ValueError('Not yet implemented')
